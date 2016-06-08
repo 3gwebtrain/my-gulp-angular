@@ -1,0 +1,30 @@
+{
+  "name": "my-gulp-angular",
+  "version": "1.0.0",
+  "description": "my gulp for angular developement",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3gwebtrain/my-gulp-angular.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulp-angular",
+    "gulp-angular",
+    "setup"
+  ],
+  "author": "Mohamed Arif B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3gwebtrain/my-gulp-angular/issues"
+  },
+  "homepage": "https://github.com/3gwebtrain/my-gulp-angular#readme",
+  "devDependencies": {
+    "file-system": "^2.2.1",
+    "gulp": "^3.9.1",
+    "yargs": "^4.7.1"
+  }
+}
