@@ -1,2 +1,4 @@
 node_modules/
 source/lib
+*.sublime-project
+*.sublime-workspace

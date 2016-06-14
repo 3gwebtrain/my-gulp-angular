@@ -1,6 +1,7 @@
 var paths 		= require('./gulp/paths'),
 	args 		= require('yargs').argv,
-	fileSytems 	= require('file-system');
+	fileSytems 	= require('file-system'),
+	ngConstant	= require('gulp-ng-constant');
 
 var ENV = args.env || "mock";
 
